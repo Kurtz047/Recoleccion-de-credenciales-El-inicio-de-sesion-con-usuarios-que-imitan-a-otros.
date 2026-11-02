@@ -8,7 +8,7 @@ El phishing de intermediario (AiTM, por sus siglas en inglés) es una técnica e
 
 ¿Por qué son tan efectivos los dominios similares? Un nombre de dominio se lee de derecha a izquierda, pero el ojo lee de izquierda a derecha, y los atacantes se centran en la percepción visual. Toman prestada una palabra clave de una marca reconocida, la colocan donde se dirige la mirada y la asocian a un nombre que ellos mismos registraron. Las sustituciones de caracteres, los subdominios adicionales y las terminaciones desconocidas se confunden rápidamente. El hábito que los neutraliza es mecánico: leer primero la terminación, porque es ahí donde se indica quién opera realmente el nombre.
 
-#Lo que sabemos hasta ahora
+# Lo que sabemos hasta ahora
 Usuario afectado: alicia.rodriguez (estación de trabajo corp-wks-7712)
 Se le enviaron dos correos electrónicos de phishing desde remitentes externos a su bandeja de entrada.
 Al menos un correo electrónico contenía un enlace a una página de inicio de sesión que imitaba a la original.

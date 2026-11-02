@@ -1,1 +1,1 @@
-# Recolecci-n-de-credenciales-El-inicio-de-sesi-n-con-usuarios-que-imitan-a-otros
+# Recoleccion de credenciales: El inicio de sesion con usuarios que imitan a otros

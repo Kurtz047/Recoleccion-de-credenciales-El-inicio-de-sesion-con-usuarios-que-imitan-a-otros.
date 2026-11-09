@@ -15,3 +15,9 @@ Al menos un correo electrónico contenía un enlace a una página de inicio de s
 Nuestros sistemas de inteligencia sobre amenazas han detectado múltiples dominios e IP sospechosos.
 Los registros de inicio de sesión de Azure AD muestran actividad anómala en la cuenta de Alicia.
 En este tutorial, seguiremos la cadena de ataque completa: desde los correos electrónicos de phishing, pasando por la infraestructura maliciosa, hasta el robo de credenciales y los intentos de movimiento lateral. Nuestras herramientas son los registros SIEM de siete fuentes diferentes en todo nuestro entorno.
+
+# El dominio de phishing
+Esa mañana, Alicia recibió dos mensajes en su bandeja de entrada, entre el tráfico habitual de un día laborable. Uno de ellos contenía un enlace con sus credenciales alojadas en el servidor de otra persona. En algún lugar de los registros que aparecen a continuación se encuentra el dominio que suplantaba la identidad de una página de inicio de sesión de Microsoft 365.
+
+Registros de puerta de enlace de correo electrónico y DNS
+El fragmento combina las entregas de correo electrónico a través de la puerta de enlace con las consultas DNS que la estación de trabajo de Alicia realizó en la misma ventana. También se incluye el tráfico corporativo habitual, y ese es el punto clave: determinar qué líneas pertenecen al incidente es el trabajo.
